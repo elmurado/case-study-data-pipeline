@@ -79,3 +79,9 @@ To maintain focus, the following areas were excluded:
 
 ## 🏁 Conclusion
 This project demonstrates **practical data engineering skills** and forms the foundation for future **predictive analytics** at Gans. By building a working ETL pipeline, we create a reliable data source for smarter scooter fleet management.
+
+---
+
+## 📝 Medium article
+For a step-by-step instruction check out my Medium article.
+[**Building a Cloud Data Pipeline: From Web Scraping to Automation**](https://medium.com/@murat.piri/building-a-cloud-data-pipeline-from-web-scraping-to-automation-55c6b15c28de)
