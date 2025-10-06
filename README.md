@@ -84,4 +84,5 @@ This project demonstrates **practical data engineering skills** and forms the fo
 
 ## 📝 Medium article
 For a step-by-step instruction check out my Medium article.
+
 [**Building a Cloud Data Pipeline: From Web Scraping to Automation**](https://medium.com/@murat.piri/building-a-cloud-data-pipeline-from-web-scraping-to-automation-55c6b15c28de)
